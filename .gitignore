@@ -1,0 +1,4 @@
+subsample/
+.vscode/
+predictions/
+*.DS_Store
