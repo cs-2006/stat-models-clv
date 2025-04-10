@@ -1,0 +1,16 @@
+black==24.10.0
+catboost==1.2.7
+exceptiongroup==1.2.2
+fastparquet==2024.11.0
+importlib_metadata==8.5.0
+ipykernel==6.29.5
+lightgbm==4.5.0
+pickleshare==0.7.5
+pip==24.2
+polars==0.20.15
+pyarrow==19.0.1
+pymc-marketing==0.12.1
+torch==2.5.1
+tqdm==4.67.1
+wheel==0.44.0
+xgboost==2.1.3
